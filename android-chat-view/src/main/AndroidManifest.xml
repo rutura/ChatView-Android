@@ -3,7 +3,7 @@
     package="com.blikoon.androidchatview">
 
     <application>
-        <activity android:name=".ChatViewActivity"></activity>
+        <activity android:name=".ChatView"></activity>
     </application>
 
 </manifest>
